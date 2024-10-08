@@ -14,15 +14,7 @@ simpanUang, ambilUang dan cekSaldo
 
 # * Buatlah gambar diagram class dan dua buah objek dari class person bernama Antor dan Riko
 DIAGRAM CLASS:
-+------------------+
-|      Person       |
-+------------------+
-| - name: String    |
-| - age: int        |
-+------------------+
-| + __init__(name, age) |
-| + introduce(): void |
-+------------------+
+
 
 
 
