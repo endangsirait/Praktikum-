@@ -14,6 +14,10 @@ simpanUang, ambilUang dan cekSaldo
 
 # * Buatlah gambar diagram class dan dua buah objek dari class person bernama Antor dan Riko
 DIAGRAM CLASS:
+# ![Uploading person class.png…]()
+
+
+
 
 
 
