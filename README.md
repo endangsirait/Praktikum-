@@ -23,12 +23,25 @@ dari diagram di atas objek antor dan riko belum ditambahkan
   
 ![Screenshot 2024-10-09 102837](https://github.com/user-attachments/assets/a83846d3-3292-41f6-9b9d-a80c95011d93)
 
+Objek anton adalah instance dari class person, yang dimana atribut spertibnama, jenis kelamin, dan umur di isi biodata anton
+
 * Diagram objek untuk Riko
 
 ![image](https://github.com/user-attachments/assets/d4ea6543-b392-4d66-8bd6-5bb2ce7f52d6)
 
+Objek Riko adalah instance dari class person, yang dimana atribut seperti nama, jenis kelamin, dan umur di isi biodata Riko
 
-  
+# * Buatlah gambar diagram objek AkunBank dengan instane method simpanUang, ambilUang dan cekSaldo
+
+![image](https://github.com/user-attachments/assets/9131e05c-4d59-4dcd-ad2c-2ee818496662)
+
+Diagram diatas adalah diagram class AkunBank, tetapi di dalam diagram tersebut belum terdapat objek yang dimasukkan
+
+* Berikut adalah diagram objek dari AkunBank
+
+![image](https://github.com/user-attachments/assets/f875200b-1922-40a0-9cb3-db21cb011e45)
+
+
 
 
 
