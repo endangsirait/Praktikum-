@@ -53,11 +53,15 @@ Diagram diatas adalah diagram class AkunBank, tetapi di dalam diagram tersebut b
 
 
 # Latihan -2
-Buatlah kode program java untuk:
+# Buatlah kode program java untuk:
 * Mendeklarasikan class Person, dengan atribut Nama,
 JenisKelamin, Umur
 * Buatlah dua buah objek dari class Person bernama Anton
 dan Riko
+# * INPUT
+![Screenshot 2024-10-09 091509](https://github.com/user-attachments/assets/89f7664d-c7db-4ad0-8cf5-01cc3dbfb118)
+![Screenshot 2024-10-09 092423](https://github.com/user-attachments/assets/4465ff50-82b6-418c-a346-9d6f5c3b5405)
+
 
 
 
