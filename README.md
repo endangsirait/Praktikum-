@@ -41,17 +41,6 @@ Diagram diatas adalah diagram class AkunBank, tetapi di dalam diagram tersebut b
 
 ![image](https://github.com/user-attachments/assets/f875200b-1922-40a0-9cb3-db21cb011e45)
 
-
-
-
-
-
-
-
-
-
-
-
 # Latihan -2
 # Buatlah kode program java untuk:
 * Mendeklarasikan class Person, dengan atribut Nama,
@@ -62,7 +51,14 @@ dan Riko
 ![Screenshot 2024-10-09 091509](https://github.com/user-attachments/assets/89f7664d-c7db-4ad0-8cf5-01cc3dbfb118)
 ![Screenshot 2024-10-09 092423](https://github.com/user-attachments/assets/4465ff50-82b6-418c-a346-9d6f5c3b5405)
 
+# * OUTPUT
+![Screenshot 2024-10-09 092526](https://github.com/user-attachments/assets/e0540fd8-3fbd-4f7a-acb5-5491fc1036f7)
 
+# Penjelasan
+* Kelas person mendeklarasikan atribut nama, jeniskelamin, dan umur.
+* Constructor digunakan untuk menginsialisasi atribut saat objek dibuat.
+* Dua objek (anton dan riko) dibuat dengan menggunakan constructor dan datanya diisi.
+* Method tampilkaninfo digunakan untuk menampilkan informasi dan objek tersebut.
 
 
 
