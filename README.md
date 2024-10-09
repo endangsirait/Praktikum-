@@ -15,10 +15,12 @@ simpanUang, ambilUang dan cekSaldo
 # * Buatlah gambar diagram class dan dua buah objek dari class person bernama Antor dan Riko
 
 ![Screenshot 2024-10-09 092846](https://github.com/user-attachments/assets/2062e0ea-5586-40be-a129-a155d8b4fc84)
+
 dari diagram di atas objek anton dan riko belum ditambahkan
 
 # Diagram class yang telah dimasukan dua objek
 * Diagram objek untuk anton
+  
 ![Screenshot 2024-10-09 102837](https://github.com/user-attachments/assets/a83846d3-3292-41f6-9b9d-a80c95011d93)
 
 
