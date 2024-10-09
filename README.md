@@ -16,13 +16,16 @@ simpanUang, ambilUang dan cekSaldo
 
 ![Screenshot 2024-10-09 092846](https://github.com/user-attachments/assets/2062e0ea-5586-40be-a129-a155d8b4fc84)
 
-dari diagram di atas objek anton dan riko belum ditambahkan
+dari diagram di atas objek antor dan riko belum ditambahkan
 
 # Diagram class yang telah dimasukan dua objek
 * Diagram objek untuk anton
   
 ![Screenshot 2024-10-09 102837](https://github.com/user-attachments/assets/a83846d3-3292-41f6-9b9d-a80c95011d93)
 
+* Diagram objek untuk Riko
+
+![image](https://github.com/user-attachments/assets/d4ea6543-b392-4d66-8bd6-5bb2ce7f52d6)
 
 
   
