@@ -60,7 +60,18 @@ dan Riko
 * Dua objek (anton dan riko) dibuat dengan menggunakan constructor dan datanya diisi.
 * Method tampilkaninfo digunakan untuk menampilkan informasi dan objek tersebut.
 
-
+# Latihan -3
+Buatlah kode java untuk:
+• Mendeklarasikan class AkunBank dengan instance method
+simpanUang, ambilUang dan cekSaldo
+• Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000,
+kemudian panggil 3 method tersebut dan tampilkan proses berikut:
+Selamat Datang di Bank ABC
+Saldo saat ini: Rp. 100000
+Simpan uang: Rp. 500000
+Saldo saat ini: Rp. 600000
+Ambil uang: Rp. 150000
+Saldo saat ini: Rp. 450000
 
 
 
