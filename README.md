@@ -1,5 +1,5 @@
 
-# Lathan -1
+# Latihan -1
 1. Apa yang harus didefinisikan sebeum membuat objek?
 2. Buatlah gambar diagram class dan dua buah objek dari class Person
 bernama Antor dan Riko
@@ -19,6 +19,7 @@ dari diagram di atas objek anton dan riko belum ditambahkan
 
 # Diagram class yang telah dimasukan dua objek
 * Diagram objek untuk anton
+  
 ![Uploading Screenshot 2024-10-09 102837.png…]()
 
 
