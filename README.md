@@ -19,8 +19,8 @@ dari diagram di atas objek anton dan riko belum ditambahkan
 
 # Diagram class yang telah dimasukan dua objek
 * Diagram objek untuk anton
-  
-![Uploading Screenshot 2024-10-09 102837.png…]()
+![Screenshot 2024-10-09 102837](https://github.com/user-attachments/assets/a83846d3-3292-41f6-9b9d-a80c95011d93)
+
 
 
   
