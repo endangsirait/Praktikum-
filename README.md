@@ -13,7 +13,17 @@ simpanUang, ambilUang dan cekSaldo
 4. Konstruktor: Konstruktor adalah metode khusus yang digunakan untuk menginisialisasi objek ketika objek tersebut dibuat. Di Python, konstruktor didefinisikan dengan metode __init__.
 
 # * Buatlah gambar diagram class dan dua buah objek dari class person bernama Antor dan Riko
-DIAGRAM CLASS:
+
+![Screenshot 2024-10-09 092846](https://github.com/user-attachments/assets/2062e0ea-5586-40be-a129-a155d8b4fc84)
+dari diagram di atas objek anton dan riko belum ditambahkan
+
+# Diagram class yang telah dimasukan dua objek
+* Diagram objek untuk anton
+![Uploading Screenshot 2024-10-09 102837.png…]()
+
+
+  
+
 
 
 
