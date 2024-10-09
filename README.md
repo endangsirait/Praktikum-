@@ -15,8 +15,20 @@ simpanUang, ambilUang dan cekSaldo
 # * Buatlah gambar diagram class dan dua buah objek dari class person bernama Antor dan Riko
 DIAGRAM CLASS:
 
-<img width="265" alt="person class" src="https://github.com/user-attachments/assets/22fb809d-4e71-4a07-9c72-572b6ec31134">
 
+
+
+
+
+
+
+
+# Latihan -2
+Buatlah kode program java untuk:
+• Mendeklarasikan class Person, dengan atribut Nama,
+JenisKelamin, Umur
+• Buatlah dua buah objek dari class Person bernama Anton
+dan Riko
 
 
 
