@@ -61,17 +61,31 @@ dan Riko
 * Method tampilkaninfo digunakan untuk menampilkan informasi dan objek tersebut.
 
 # Latihan -3
-Buatlah kode java untuk:
-• Mendeklarasikan class AkunBank dengan instance method
+# * Buatlah kode java untuk:
+1. Mendeklarasikan class AkunBank dengan instance method
 simpanUang, ambilUang dan cekSaldo
-• Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000,
+2. Buat objek AkunBank dan tetapkan nilai saldo awal Rp. 100000,
 kemudian panggil 3 method tersebut dan tampilkan proses berikut:
-Selamat Datang di Bank ABC
-Saldo saat ini: Rp. 100000
-Simpan uang: Rp. 500000
-Saldo saat ini: Rp. 600000
-Ambil uang: Rp. 150000
-Saldo saat ini: Rp. 450000
+![image](https://github.com/user-attachments/assets/e95c44bc-6f8b-4f88-be87-05544d62c26c)
+
+* INPUT
+![Screenshot 2024-10-09 110909](https://github.com/user-attachments/assets/dd0b1491-9478-487d-a425-76a5b7f7b5c0)
+![image](https://github.com/user-attachments/assets/77c26a07-1296-4cbf-9df3-5ca0e730e417)
+
+# * OUTPUT
+![image](https://github.com/user-attachments/assets/b46581f1-41c0-4fbc-b774-a36fc8e383ad)
+
+# Penjelasan
+* Atribut saldo: Menyimpan saldo yang diinisialisasi melalui constructor.
+* Method simpanUang(int jumlah): Menambahkan jumlah uang yang disimpan ke dalam saldo.
+* Method ambilUang(int jumlah): Mengurangi saldo sesuai jumlah uang yang diambil jika saldo mencukupi.
+* Method cekSaldo(): Menampilkan saldo saat ini.
+* Main Method: Membuat objek AkunBank, menampilkan pesan awal, dan memanggil metode simpanUang dan ambilUang sesuai skenario pada gambar.
+* Ketika program dijalankan, hasil yang ditampilkan sesuai dengan yang diminta di gambar.
+
+
+
+
 
 
 
